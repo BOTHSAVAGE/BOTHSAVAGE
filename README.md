@@ -3,10 +3,10 @@
 
 > Strike the iron while it is hot.
 
-<p style="font-size: 12px">: code everyday</p>
+<!-- <p style="font-size: 12px">: code everyday</p> -->
 
 
-- 🌱 I’m currently learning JAVA,REDIS,ELK,MYSQL,SPRING CLOUD,NETTY,JUC.......
+- 🌱 code everyday
 
 <!--
 **BOTHSAVAGE/BOTHSAVAGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
